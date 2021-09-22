@@ -1,6 +1,6 @@
 # demo1
 
-practice 1
+git practice 1
 
 ## subtitle
 
